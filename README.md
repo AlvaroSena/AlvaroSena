@@ -17,7 +17,7 @@
 
 - **Front-end:** React, Vite, Tailwind, TanStack Query  
 - **Back-end:** Node.js, Express, Redis, Upstash  
-- **DevOps & Deploy:** Vercel, Docker, CI/CD  
+- **DevOps & Deploy:** Vercel, Docker, CI/CD, AWS S3, Cloudflare R2  
 - **Banco de dados:** PostgreSQL, MySQL, SQlite...  
 - **Outros:** Zod, TypeScript, Jest, Git
 

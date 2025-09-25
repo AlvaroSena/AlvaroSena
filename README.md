@@ -1,25 +1,7 @@
-# Olá, eu sou Alvaro Sena 👋
-
-> Fullstack dev, amante de TypeScript e sarcasmo refinado. Aqui você vai encontrar projetos, códigos malucos e algumas ideias que talvez funcionem… ou não.
-
+# Alvaro Sena
 ---
+I design software that solves real-world problems. Focused on engineering scalable, maintainable solutions.
 
-## 🚀 Sobre mim
+Currently studying Software Development (3rd semester) and building Integro, a stock management system that streamlines inventory processes.
 
-- Desenvolvedor Fullstack apaixonado por **Node.js, React, TypeScript** e qualquer coisa que envolva **monorepos** e organização de projetos.  
-- Sempre tentando combinar **boas práticas** com uma pitada de **ironia**.  
-- Curioso por natureza: se tem algo novo pra aprender, eu já estou experimentando (e quebrando) no ambiente de dev.  
-- Evito código bagunçado como evito café ruim ☕.
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/alvarosen4)  
-- [Email](mailto:contato@alvarosena.com.br)  
-- Ou me encontre no GitHub mesmo, analisando commits suspeitos 😏
-
----
-
-> “O código que você escreve hoje é o meme que você vai rir amanhã.”  
-
+Email: (contato@alvarosena.com.br)

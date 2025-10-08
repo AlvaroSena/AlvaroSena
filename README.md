@@ -27,7 +27,7 @@
 ### 🧠 About Me
 
 - 🎓 Software Development (3rd semester)
-
+- 🎓 Harvard CS50x (Computer Science) Certified
 ---
 
 ### 💻 Tech Stack Highlights

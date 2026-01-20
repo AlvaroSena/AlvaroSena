@@ -26,7 +26,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Software Development (3rd semester)
+- 🎓 Software Development (4th semester)
 - 🎓 Harvard CS50x (Computer Science) Certified
 ---
 
